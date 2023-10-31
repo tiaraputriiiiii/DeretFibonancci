@@ -11,6 +11,8 @@ Matkul : Pemrograman Mobile 1
 Dosen : Donny Maulana, S.Kom., M.M.S.I.
 
 
+
+
 1. activity_toast
 
 ```
@@ -95,6 +97,7 @@ Dosen : Donny Maulana, S.Kom., M.M.S.I.
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 
 2. MainActivity.java
 ```
@@ -181,6 +184,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+
 3. String.xml
 ```
 <resources>
@@ -193,6 +197,7 @@ public class MainActivity extends AppCompatActivity {
     <string name="Restart">Restart</string>
 </resources>
 ```
+
 
 4. Colors.xml
 ```
@@ -207,6 +212,7 @@ public class MainActivity extends AppCompatActivity {
     <color name="colorAccent">#FF4081</color>
 </resources>
 ```
+
 
 5. Hasil
 
