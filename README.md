@@ -23,7 +23,7 @@ Soalnya adalah dari project sebelumnya Toast number dan Buatlah Method Program j
 3 + 5 = 8 ( 1, 1, 2, 3, 5, 8, ... )
 
 
-1. activity_toast
+## 1. activity_toast
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -109,7 +109,7 @@ Soalnya adalah dari project sebelumnya Toast number dan Buatlah Method Program j
 ```
 
 
-2. MainActivity.java
+## 2. MainActivity.java
 ```
 package com.fibonancisequence;
 
@@ -195,7 +195,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-3. String.xml
+## 3. String.xml
 ```
 <resources>
     <string name="app_name">fibonanci sequence</string>
@@ -209,7 +209,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-4. Colors.xml
+## 4. Colors.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
@@ -224,7 +224,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-5. Hasil
+## 5. Hasil
 
 https://github.com/tiaraputriiiiii/DeretFibonancci/assets/115775237/05cb030b-f7b0-41eb-bf9d-5ead01e74ee2
 
