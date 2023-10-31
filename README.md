@@ -229,4 +229,4 @@ public class MainActivity extends AppCompatActivity {
 https://github.com/tiaraputriiiiii/DeretFibonancci/assets/115775237/05cb030b-f7b0-41eb-bf9d-5ead01e74ee2
 
 
-## Finish, Terima Kasih
+## Finish, Terima Kasih 🙏💜
