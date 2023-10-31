@@ -226,7 +226,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## 5. Hasil
 
-https://github.com/tiaraputriiiiii/DeretFibonancci/assets/115775237/05cb030b-f7b0-41eb-bf9d-5ead01e74ee2
+
+https://github.com/tiaraputriiiiii/DeretFibonancci/assets/115775237/8002a74a-19d2-4fd6-a878-cfb296a68b22
 
 
 ## Finish, Terima Kasih 🙏💜
