@@ -1,10 +1,15 @@
 # DeretFibonancci
 
 Nama : Tiara Putri
+
 NIM : 312210064
+
 Kelas : TI.22.A1
+
 Matkul : Pemrograman Mobile 1
+
 Dosen : Donny Maulana, S.Kom., M.M.S.I.
+
 
 1. activity_toast
 
