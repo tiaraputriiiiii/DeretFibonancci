@@ -10,7 +10,16 @@ Matkul : Pemrograman Mobile 1
 
 Dosen : Donny Maulana, S.Kom., M.M.S.I.
 
+```
+Soalnya adalah dari project sebelumnya Toast number dan Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci
 
+Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh dengan menjumlahkan dua angka didepannya / sebelumnya:
+
+1, 1, 2, ...
+1 + 2 = 3 ( 1, 1, 2, 3, ... )
+2 + 3 = 5 ( 1, 1, 2, 3, 5, ... )
+3 + 5 = 8 ( 1, 1, 2, 3, 5, 8, ... )
+```
 
 
 1. activity_toast
