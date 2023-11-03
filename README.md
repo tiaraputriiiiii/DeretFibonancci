@@ -110,10 +110,12 @@ Soalnya adalah dari project sebelumnya Toast number dan Buatlah Method Program j
         app:layout_constraintVertical_bias="0.0"
         tools:ignore="RtlCompat" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>```
+</androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 
 ## 2. MainActivity.java
+
 ```
 package com.fibonancisequence;
 
@@ -245,8 +247,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-
 ## 3. String.xml
+
 ```
 <resources>
     <string name="app_name">FibonacciSequence</string>
